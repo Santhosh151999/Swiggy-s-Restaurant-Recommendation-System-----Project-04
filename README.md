@@ -25,3 +25,5 @@ Backend/Data Processing: Python (Pandas, NumPy)
 Visualization Libraries: Seaborn, Matplotlib, Plotly
 Database (Optional): CSV files or MySQL
 Data Source: Cleaned Swiggy dataset with restaurant details
+
+Dataset and Model: https://drive.google.com/drive/folders/1PiVItDSPa8bZq6cKnnZfQE9vkqpRWbUB?usp=sharing
